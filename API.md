@@ -9,7 +9,7 @@ from basketball_reference_scraper.teams import get_roster, get_team_stats, get_o
 ### `get_roster(team, season)`
 Parameters:
   - `team` - NBA team abbreviation (e.g. `'GSW'`, `'SAS'`)
-  - `season_end_year` - Desired end year (e.g. `1988`, `2011`)
+  - `season_end_year` - Desired end year (e.g. `2022`, `2023`)
 
 Returns:
 
